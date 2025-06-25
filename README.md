@@ -4,7 +4,7 @@ An educational Node.js project that simulates a RESTful API for managing clubs i
 🚀 Technologies Used
 Node.js
 
-Express.js
+Express.js 
 
 Nodemon
 
