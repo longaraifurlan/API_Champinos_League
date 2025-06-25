@@ -1,4 +1,5 @@
 export interface ClubModel {
     id: number,
-    name: string
+    name: string,
+    country: string
 }

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Real Madrid",
+    "country": "Spain"
+  },
+  {
+    "id": 2,
+    "name": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "id": 3,
+    "name": "Manchester City",
+    "country": "England"
+  },
+  {
+    "id": 4,
+    "name": "Arsenal",
+    "country": "England"
+  },
+  {
+    "id": 5,
+    "name": "Aston Villa",
+    "country": "England"
+  },
+  {
+    "id": 6,
+    "name": "Liverpool",
+    "country": "England"
+  },
+  {
+    "id": 7,
+    "name": "Atlético Madrid",
+    "country": "Spain"
+  },
+  {
+    "id": 8,
+    "name": "Girona",
+    "country": "Spain"
+  },
+  {
+    "id": 9,
+    "name": "Bayern Munich",
+    "country": "Germany"
+  },
+  {
+    "id": 10,
+    "name": "Borussia Dortmund",
+    "country": "Germany"
+  },
+  {
+    "id": 11,
+    "name": "RB Leipzig",
+    "country": "Germany"
+  },
+  {
+    "id": 12,
+    "name": "Bayer Leverkusen",
+    "country": "Germany"
+  },
+  {
+    "id": 13,
+    "name": "Stuttgart",
+    "country": "Germany"
+  },
+  {
+    "id": 14,
+    "name": "Atalanta",
+    "country": "Italy"
+  },
+  {
+    "id": 15,
+    "name": "Bologna",
+    "country": "Italy"
+  },
+  {
+    "id": 16,
+    "name": "Inter Milan",
+    "country": "Italy"
+  },
+  {
+    "id": 17,
+    "name": "Juventus",
+    "country": "Italy"
+  },
+  {
+    "id": 18,
+    "name": "Milan",
+    "country": "Italy"
+  },
+  {
+    "id": 19,
+    "name": "Paris Saint‑Germain",
+    "country": "France"
+  },
+  {
+    "id": 20,
+    "name": "Monaco",
+    "country": "France"
+  },
+  {
+    "id": 21,
+    "name": "Brest",
+    "country": "France"
+  },
+  {
+    "id": 22,
+    "name": "PSV Eindhoven",
+    "country": "Netherlands"
+  },
+  {
+    "id": 23,
+    "name": "Feyenoord",
+    "country": "Netherlands"
+  },
+  {
+    "id": 24,
+    "name": "Benfica",
+    "country": "Portugal"
+  },
+  {
+    "id": 25,
+    "name": "Sporting CP",
+    "country": "Portugal"
+  },
+  {
+    "id": 26,
+    "name": "Club Brugge",
+    "country": "Belgium"
+  },
+  {
+    "id": 27,
+    "name": "Celtic",
+    "country": "Scotland"
+  },
+  {
+    "id": 28,
+    "name": "Red Star Belgrade",
+    "country": "Serbia"
+  },
+  {
+    "id": 29,
+    "name": "Slovan Bratislava",
+    "country": "Slovakia"
+  },
+  {
+    "id": 30,
+    "name": "Sparta Praha",
+    "country": "Czechia"
+  },
+  {
+    "id": 31,
+    "name": "Young Boys",
+    "country": "Switzerland"
+  },
+  {
+    "id": 32,
+    "name": "Shakhtar Donetsk",
+    "country": "Ukraine"
+  },
+  {
+    "id": 33,
+    "name": "Salzburg",
+    "country": "Austria"
+  },
+  {
+    "id": 34,
+    "name": "Sturm Graz",
+    "country": "Austria"
+  },
+  {
+    "id": 35,
+    "name": "Lille",
+    "country": "France"
+  },
+  {
+    "id": 36,
+    "name": "Dinamo Zagreb",
+    "country": "Croatia"
+  }
+]
